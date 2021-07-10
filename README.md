@@ -1,2 +1,2 @@
 # spring-helloworld
-Contoh aplikasi yang dipublikasikan di [http://andikhermawan.com](http://andikhermawan.com)
+Contoh aplikasi yang dipublikasikan di [andikhermawan.com](https://andikhermawan.wordpress.com/?p=642)
